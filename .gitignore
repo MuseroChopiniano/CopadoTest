@@ -1,3 +1,4 @@
 .sfdx
-force-app/main/default/classes/copado__*
-force-app/main/default/components/copado__*
+force-app/main/default/classes/copado*
+force-app/main/default/triggers/copado*
+force-app/main/default/pages/copado__*
