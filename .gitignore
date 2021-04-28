@@ -1,1 +1,3 @@
 .sfdx
+force-app/main/default/classes/copado__*
+force-app/main/default/components/copado__*
